@@ -10,8 +10,11 @@ with col1:
 with col2:
     st.title("mikebstudy")
     content="""
-    Hi, this is 'mikebstudy' working through the Python Mega Course. There are 20 projects. So far I've completed
-    the first project and am working on the second project, this Showcase project. The picture is of the author of the 
-    course, not me.
+    Hi, this is 'mikebstudy' working through the Python Mega Course. There are 20 projects. 
     """
     st.info(content)
+
+content2 = """
+Below are the apps that are part of the course work. I've only built the first one, but the others are coming.
+"""
+st.write(content2)
