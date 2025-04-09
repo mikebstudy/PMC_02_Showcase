@@ -22,13 +22,19 @@ Below are the apps that are part of the course work. I've only built the first o
 """
 st.write(content2)
 
-col3, col4 = st.columns(2)
+col3, spacer_col, col4 = st.columns([1.5,0.5,1.5])
 
 with col3:
     for idx, row in df[:10].iterrows():
         st.header(row["title"])
+        st.write(row["description"])
+        st.image("images/"+row["image"])
+        st.write(f"[Source Code]({row['url']})")
 
 with col4:
     for idx, row in df[10:].iterrows():
         st.header(row["title"])
+        st.write(row["description"])
+        st.image("images/"+row["image"])
+        st.write(f"[Source Code]({row['url']})")
 
