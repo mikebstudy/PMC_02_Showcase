@@ -11,7 +11,7 @@ with col1:
     st.image("images/mikebstudy.png")
 
 with col2:
-    st.title("mikebstudy")
+    st.title("Mike B Study")
     content="""
     Hi, this is 'mikebstudy' working through the Python Mega Course. There are 20 projects. 
     """
@@ -22,7 +22,7 @@ Below are the apps that are part of the course work. I've only built the first o
 """
 st.write(content2)
 
-col3, spacer_col, col4 = st.columns([1.5,0.5,1.5])
+col3, spacer_col, col4 = st.columns([2,0.125,2])
 
 with col3:
     for idx, row in df[:10].iterrows():
