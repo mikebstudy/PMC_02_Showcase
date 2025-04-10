@@ -43,3 +43,7 @@
       - Select App passwords
         - Enter app name: PMC.02.Showcase
         - Copy password for installation in program or environment variable
+#### L220
+- Connecting send_email.py to Contact_Me.py does not reference send_email.py correctly
+  - [ ] Fix needed. Tried to figure it out, but ran out of time
+  - So must move logic into Contact_Me.py for now
