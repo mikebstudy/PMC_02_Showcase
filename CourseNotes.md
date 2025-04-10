@@ -32,3 +32,14 @@
     - Add py files for pages and name them the way they are to appear in the sidebar menu
       - Use Capitals as needed and underscores as spaces
   - Rename main.py as Home.py in the main folder
+#### L219
+- Create app password
+  - Go to google settings  
+    - In Search Box: step verification
+      - Select 2-Step Verification (2nd or 3rd one)
+        - Turn on, if not turned on
+        - Add my phone number if needed
+    - In Search Box: app passwords
+      - Select App passwords
+        - Enter app name: PMC.02.Showcase
+        - Copy password for installation in program or environment variable
