@@ -24,3 +24,11 @@
     - .venv\Scripts\python myfile.py
   - to run in pc
     - may need to delete .venv and create a new one in pc
+
+### Day 23
+#### L217
+- To add sidebar for navigation menu
+  - Add pages folder
+    - Add py files for pages and name them the way they are to appear in the sidebar menu
+      - Use Capitals as needed and underscores as spaces
+  - Rename main.py as Home.py in the main folder
