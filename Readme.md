@@ -9,9 +9,9 @@
 - Added extra space vertically between team boxes (write(&nbsp;))
 - Calculated the number of rows for each column,so that extra team boxes would fill columns from left to right
 
-### mikeb.M
+### mikeb_M
 
 
-### Copilot.A
+### Copilot_A
 
 
