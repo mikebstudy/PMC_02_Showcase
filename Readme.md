@@ -3,7 +3,7 @@
 - From Python Mega Course (by Ardit Sulce)
 - Day 21-23 Project 2 Portfolio Showcase 
 
-### course.C
+### course_C
 
 #### (Day22) Features added to Website subproject
 - Added extra space vertically between team boxes (write(&nbsp;))

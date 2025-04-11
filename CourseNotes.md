@@ -45,5 +45,7 @@
         - Copy password for installation in program or environment variable
 #### L220
 - Connecting send_email.py to Contact_Me.py does not reference send_email.py correctly
-  - [ ] Fix needed. Tried to figure it out, but ran out of time
+  - [X] Fix needed. Tried to figure it out, but ran out of time
+    - Fix was to rename course.C directory to course_C
   - So must move logic into Contact_Me.py for now
+    - Deleted logic with rename fix and it works
