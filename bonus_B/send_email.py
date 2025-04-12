@@ -7,7 +7,6 @@ def send_email(message):
     port = 465
 
     username = "mikebstudy@gmail.com"
-
     load_dotenv(override=True)
     password = os.getenv("PMC_02_SHOWCASE_PW")
 
