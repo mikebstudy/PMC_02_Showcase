@@ -26,7 +26,8 @@
 ## mikeb_M
 - Started with final version of course_C
 - [X] Add status to projects and display
-- [ ] Filter by status with checkboxes
+- [X] Filter by status with checkboxes
+- [X] Add numbers to project titles and reduce their size for readability
 
 ## Copilot_A
 - Started with creating prompts in Prompt.md
