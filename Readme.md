@@ -9,7 +9,7 @@
   - ChatGTP_A is experiments in generating code similiar to course.C and mikeb.M
   - (C,M,A - are the letters that proceed git commit comments and correspond to the respective implementations)
 
-- Github repo: https://github.com/mikebstudy-PMC/PMC_02_Showcase
+- Github repo: https://github.com/mikebstudy/PMC_02_Showcase
   - each implementation is in its own folder 
 
 ## course_C
