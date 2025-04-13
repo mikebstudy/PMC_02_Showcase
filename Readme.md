@@ -25,7 +25,7 @@
 
 ## mikeb_M
 - Started with final version of course_C
-- [ ] Add status to projects and display
+- [X] Add status to projects and display
 - [ ] Filter by status with checkboxes
 
 ## Copilot_A
