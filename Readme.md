@@ -28,7 +28,18 @@
 - [X] Add status to projects and display
 - [X] Filter by status with checkboxes
 - [X] Add numbers to project titles and reduce their size for readability
+- [ ] Change columns to alternate rather than two long columns
+- [ ] Use markdown to right justify status next to source code 
 
 ## Copilot_A
 - Started with creating prompts in Prompt.md
+- Second try worked well enough 
+  - Several good enhancement ideas
+    - Sidebar coding example
+    - Sidebar maintenance of projects
+    - markdown coding example for styling
+    - sort and filter all the statuses and create checkbox for each
+    - Two column alternating logic rather than two independent columns
+  - Did not change the code to reflect the organization of the 'card' structure
+  - Code could not read from a file. It used dictionary data instead.  
 
