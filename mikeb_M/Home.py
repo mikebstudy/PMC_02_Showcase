@@ -11,16 +11,20 @@ with col1:
     st.image("images/mikebstudy.png")
 
 with col2:
-    st.title("Mike B Study")
+    st.title("Mike Brennan")
     content="""
-    Hi, this is 'mikebstudy' working through the Python Mega Course. There are 20 projects. 
+    Hi, this is **Mike Brennan** studying Python by working through the Python Mega Course 
+    *(offered on Udemy by Ardit Sulce)*. I've been a **software developer** for many years, but I'm new to Python.
+    I'm using this course to come up to speed and develop sufficient skills to work as a **Python developer**.
     """
-    st.info(content)
+    st.markdown(content)
 
 content2 = """
-Below are the apps that are part of the course work. I've only built the first one, but the others are coming.
+The approach I'm taking in working through the course is three fold - for each course project:  \n
+1. Do the project, &nbsp;&nbsp;&nbsp;&nbsp; 2. Enhance the project, &nbsp;&nbsp;&nbsp;&nbsp; 3. Test an AI chatbot's ability to do the project.  \n 
+There are 20 projects in the course.
 """
-st.write(content2)
+st.markdown(content2)
 
 #cbx1, cbx2, cbx3, cbx4 = st.columns(4)
 
