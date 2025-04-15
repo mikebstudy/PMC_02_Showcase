@@ -25,11 +25,15 @@
 
 ## mikeb_M
 - Started with final version of course_C
-- [X] Add status to projects and display
-- [X] Filter by status with checkboxes
-- [X] Add numbers to project titles and reduce their size for readability
-- [ ] Change columns to alternate rather than two long columns
-- [ ] Use markdown to right justify status next to source code 
+- [ X ] Add status to projects and display
+- [ X ] Filter by status with checkboxes
+- [ X ] Add numbers to project titles and reduce their size for readability
+- After generating a version with Copilot the following changes are desired
+- [ X ] Change columns to alternate rather than two long columns
+  - Don't like that columns don't wrap below one another
+- [ - ] Use markdown to right justify status next to source code 
+  - Tried, but markdown does not handle links embedded in html. So cannot use.
+- Final version is Home2.py
 
 ## Copilot_A
 - Started with creating prompts in Prompt.md
